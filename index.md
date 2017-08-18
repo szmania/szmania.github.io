@@ -1,7 +1,7 @@
 ## Welcome to Curtis Szmania's GitHub Profile
 
 * Video Resume: https://youtu.be/a6_14f1wmyY
-* GitHub: https://github.com/szmania
+* GitHub: https://szmania.github.io/
 * LinkedIn: https://www.linkedin.com/in/curtisszmania/
 
 ### Here are Some of My Most Profound Projects:
