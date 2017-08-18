@@ -19,7 +19,7 @@
 <img src="https://github.com/szmania/Feed_Filter/blob/master/extras/feed_filter.png" alt="Feed Filter GUI" height="200">
 
 * **SH3 Dynamic Campaign** (self-developed) http://szmania.github.io/SH3_Dynamic_Campaign/
-<img src="http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jp" alt="SH3 Dynamic Campaign GUI" height="200">
+<img src="http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jpg" alt="SH3 Dynamic Campaign GUI" height="200">
 
 * **AWS Hadoop weather tracking** https://szmania.github.io/AWS_Hadoop/
 
