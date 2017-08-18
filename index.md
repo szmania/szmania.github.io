@@ -13,7 +13,7 @@
 <img src="https://www.askdavetaylor.com/wp-content/uploads/2016/03/hp-pagewide-pro-control-screen.jpg" alt="HP Printer UI" height="200">
 
 * **MEGA Manager** (self-developed) https://szmania.github.io/MEGA_Manager/
-<img src="https://eu.static.mega.co.nz/3/images/mega/logo-facebook.png" alt="MEGA Cloud Sync" height="200">
+<img src="http://cdn2.ubergizmo.com/wp-content/uploads/2013/11/mega-launch.png" alt="MEGA Cloud Sync" height="200">
 
 * **Feed Filter** (self-developed) https://szmania.github.io/Feed_Filter/
 <img src="https://github.com/szmania/Feed_Filter/blob/master/extras/feed_filter.png" alt="Feed Filter GUI" height="200">
