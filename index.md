@@ -8,7 +8,7 @@
 * **Test Framework and Suite for Streamlining Test Development for Firmware Quality (self-developed) (HP Inc.)**
 * **Ground-Breaking Ad Hoc UI Automation Test (self-developed) (HP Inc.)**
 * **MEGA Manager (self-developed) https://szmania.github.io/MEGA_Manager/**
-* **Feed Filter (self-developed) https://szmania.github.io/Feed_Filter/**
+* ** [Feed Filter (self-developed)] (https://szmania.github.io/Feed_Filter/)**
 * **SH3 Dynamic Campaign (self-developed) http://szmania.github.io/SH3_Dynamic_Campaign/**
 * **AWS Hadoop weather tracking https://szmania.github.io/AWS_Hadoop/**
 
