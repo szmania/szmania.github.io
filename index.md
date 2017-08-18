@@ -13,10 +13,10 @@
 ![alt text](https://www.askdavetaylor.com/wp-content/uploads/2016/03/hp-pagewide-pro-control-screen.jpg "HP Printer UI" | height=100)
 
 * **MEGA Manager** (self-developed) https://szmania.github.io/MEGA_Manager/
-![alt text](https://eu.static.mega.co.nz/3/images/mega/logo-facebook.png "MEGA Cloud Sync"){:height="100px"}
+<img src="https://eu.static.mega.co.nz/3/images/mega/logo-facebook.png" alt="MEGA Cloud Sync" height="100">
 
 * **Feed Filter** (self-developed) https://szmania.github.io/Feed_Filter/
-![alt text](https://github.com/szmania/Feed_Filter/blob/master/extras/feed_filter.png "Feed Filter GUI" | height=100)
+<img src="https://github.com/szmania/Feed_Filter/blob/master/extras/feed_filter.png" alt="Feed Filter GUI" height="100">
 
 * **SH3 Dynamic Campaign** (self-developed) http://szmania.github.io/SH3_Dynamic_Campaign/
 ![alt text](http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jpg "Gui" | height=100)
