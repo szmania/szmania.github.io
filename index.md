@@ -1,8 +1,8 @@
 ## Welcome to Curtis Szmania's GitHub Profile
 
-***<a href="https://youtu.be/a6_14f1wmyY">Video Resume</a>*** 
-***<a href="https://github.com/szmania">GitHub</a>*** 
-***<a href="https://www.linkedin.com/in/curtisszmania/">LinkedIn</a>*** 
+* ***<a href="https://youtu.be/a6_14f1wmyY">Video Resume</a>*** 
+* ***<a href="https://github.com/szmania">GitHub</a>*** 
+* ***<a href="https://www.linkedin.com/in/curtisszmania/">LinkedIn</a>*** 
 
 ### Here are Some of My Most Profound Projects:
 * **Test Framework and Suite for Streamlining Test Development for Firmware Quality** (self-developed) (HP Inc.)
