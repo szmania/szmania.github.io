@@ -28,6 +28,12 @@
 
 <img src="http://hostedgames.yolasite.com/resources/SH3DC.jpg.opt860x483o0%2C0s860x483.jpg" alt="SH3 Dynamic Campaign GUI" height="200">
 
+* ***<a href="https://szmania.github.io/SilentHunterIII_BatchTools/">SH3 Batch Tools</a>***
+
+<img src="https://m.media-amazon.com/images/I/51P28HFH45L.jpg" alt="SH3 Batch Tools" height="200">
+
+
+
 * ***<a href="https://szmania.github.io/mach_armchair_general_mods/">Machiavelli's Armchair General Mods for Empire: Total War</a>***
 
 <img src="https://github.com/szmania/mach_armchair_general_mods/blob/master/img/battle_history_list_4.jpg?raw=true" alt="Machiavelli's Armchair General Mods for Empire: Total War" height="200">
