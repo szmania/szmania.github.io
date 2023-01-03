@@ -30,8 +30,11 @@
 
 * ***<a href="https://szmania.github.io/mach_armchair_general_mods/">Machiavelli's Armchair General Mods for Empire: Total War</a>***
 
-<img src="https://github.com/szmania/mach_armchair_general_mods/blob/master/img/battle_history_list_4.jpg?raw=true" alt="Machiavelli's Armchair General Mods for Empire: Total Wa" height="200">
+<img src="https://github.com/szmania/mach_armchair_general_mods/blob/master/img/battle_history_list_4.jpg?raw=true" alt="Machiavelli's Armchair General Mods for Empire: Total War" height="200">
 
+* ***<a href="https://github.com/szmania/WALI_2">Warscape Added Lua Interface</a>***
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQ3NTv217Aq8ZXyCiJSp9Nlrvk0QH0obcVw&usqp=CAU" alt="Warscape Engine" height="200">
 
 
 #### Some other Notable Projects:
