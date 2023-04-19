@@ -3,14 +3,21 @@
 * ***<a href="https://github.com/szmania">GitHub</a>*** 
 * ***<a href="https://www.linkedin.com/in/curtisszmania/">LinkedIn</a>*** 
 
-### Here are Some of My Most Profound Projects:
-* ***Test Framework and Suite for Streamlining Test Development for Firmware Quality*** (self-developed) (HP Inc.)
+### Here are Some of My Projects:
 
-<img src="https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05443612.png" alt="HP 750 PageWide Lineup" height="200">
 
-* ***Ground-Breaking Ad Hoc UI Automation Test*** (self-developed) (HP Inc.)
+* ***<a href="https://github.com/szmania/dash-4-smart-cars">Dashboard 4 Smart Cars</a>***
 
-<img src="https://www.askdavetaylor.com/wp-content/uploads/2016/03/hp-pagewide-pro-control-screen.jpg" alt="HP Printer UI" height="200">
+<img src="https://hips.hearstapps.com/hmg-prod/images/f8a9478-source-1556566510.jpg" alt="Dashboard 4 Smart Cars" height="200">
+
+* ***<a href="https://github.com/szmania/AzureLocationAPI">Azure Location API</a>***
+
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure Location API" height="200">
+
+* ***<a href="https://github.com/szmania/aws-spring-boot-api">AWS Spring Boot API</a>***
+
+<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="AWS Spring Boot API" height="200">
+
 
 * ***<a href="https://szmania.github.io/mega_manager/">MEGA Manager</a>*** 
 
